@@ -1,0 +1,22 @@
+[
+    {
+      "accNo": 10,
+      "customerNo": "1001",
+      "loanAmount": 3000,
+      "noOfTenor": 10,
+      "tenorUnit": "D",
+      "interestRate": 5,
+      "interestAmount": "100",
+      "totalPayableAmount": "3100"
+     },
+    {
+      "accNo": 11,
+      "customerNo": "1002",
+      "loanAmount": 4000,
+      "noOfTenor": 10,
+      "tenorUnit": "D",
+      "interestRate": 5,
+      "interestAmount": "100",
+      "totalPayableAmount": "4100"
+     }
+  ]
